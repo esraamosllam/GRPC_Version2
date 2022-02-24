@@ -1,0 +1,11 @@
+D:\Grpc\AspNetCore.Docs-main\aspnetcore\grpc\test-services\sample\Server\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+D:\Grpc\AspNetCore.Docs-main\aspnetcore\grpc\test-services\sample\Server\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+D:\Grpc\AspNetCore.Docs-main\aspnetcore\grpc\test-services\sample\Server\ClassLibrary\bin\Debug\net5.0\ref\ClassLibrary.dll
+D:\Grpc\AspNetCore.Docs-main\aspnetcore\grpc\test-services\sample\Server\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+D:\Grpc\AspNetCore.Docs-main\aspnetcore\grpc\test-services\sample\Server\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grpc\AspNetCore.Docs-main\aspnetcore\grpc\test-services\sample\Server\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\Grpc\AspNetCore.Docs-main\aspnetcore\grpc\test-services\sample\Server\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+D:\Grpc\AspNetCore.Docs-main\aspnetcore\grpc\test-services\sample\Server\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Grpc\AspNetCore.Docs-main\aspnetcore\grpc\test-services\sample\Server\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+D:\Grpc\AspNetCore.Docs-main\aspnetcore\grpc\test-services\sample\Server\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll
+D:\Grpc\AspNetCore.Docs-main\aspnetcore\grpc\test-services\sample\Server\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb

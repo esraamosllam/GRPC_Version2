@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GpJx6BWRYUfbbrCDXqNiR72J4DdAXxznqpT5TZD7XDtGiEqDbCLygf14lEBm7puxSl5UgKwtXc1q9vBSGE7X5Q==",
+  "success": true,
+  "projectFilePath": "D:\\Grpc\\AspNetCore.Docs-main\\aspnetcore\\grpc\\test-services\\sample\\Server\\ClassLibrary\\ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\t-eamoslam\\.nuget\\packages\\google.protobuf\\3.19.3\\google.protobuf.3.19.3.nupkg.sha512",
+    "C:\\Users\\t-eamoslam\\.nuget\\packages\\grpc\\2.44.0\\grpc.2.44.0.nupkg.sha512",
+    "C:\\Users\\t-eamoslam\\.nuget\\packages\\grpc.core\\2.44.0\\grpc.core.2.44.0.nupkg.sha512",
+    "C:\\Users\\t-eamoslam\\.nuget\\packages\\grpc.core.api\\2.44.0\\grpc.core.api.2.44.0.nupkg.sha512",
+    "C:\\Users\\t-eamoslam\\.nuget\\packages\\grpc.tools\\2.43.0\\grpc.tools.2.43.0.nupkg.sha512",
+    "C:\\Users\\t-eamoslam\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

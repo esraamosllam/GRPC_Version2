@@ -1,0 +1,135 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ClassLibrary/1.0.0": {
+        "dependencies": {
+          "Google.Protobuf": "3.19.3",
+          "Grpc": "2.44.0",
+          "Grpc.Tools": "2.43.0"
+        },
+        "runtime": {
+          "ClassLibrary.dll": {}
+        }
+      },
+      "Google.Protobuf/3.19.3": {
+        "runtime": {
+          "lib/net5.0/Google.Protobuf.dll": {
+            "assemblyVersion": "3.19.3.0",
+            "fileVersion": "3.19.3.0"
+          }
+        }
+      },
+      "Grpc/2.44.0": {
+        "dependencies": {
+          "Grpc.Core": "2.44.0"
+        }
+      },
+      "Grpc.Core/2.44.0": {
+        "dependencies": {
+          "Grpc.Core.Api": "2.44.0",
+          "System.Memory": "4.5.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Grpc.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.44.0.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-arm64/native/libgrpc_csharp_ext.arm64.so": {
+            "rid": "linux-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/libgrpc_csharp_ext.x64.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libgrpc_csharp_ext.x64.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/grpc_csharp_ext.x64.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/grpc_csharp_ext.x86.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Grpc.Core.Api/2.44.0": {
+        "dependencies": {
+          "System.Memory": "4.5.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Grpc.Core.Api.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.44.0.0"
+          }
+        }
+      },
+      "Grpc.Tools/2.43.0": {},
+      "System.Memory/4.5.3": {}
+    }
+  },
+  "libraries": {
+    "ClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Google.Protobuf/3.19.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/C209W6RtwvtG1MoNNjoOMdlnCjVi8k3gFn90DO3O7kYoH3O345jZkJMYaJmddYIm7ROZC25sEAKHJPt3XZOog==",
+      "path": "google.protobuf/3.19.3",
+      "hashPath": "google.protobuf.3.19.3.nupkg.sha512"
+    },
+    "Grpc/2.44.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9a6FybBPcVMAxSXMTbwYxBmAe7dG+hMMSTrar4lccIXZxUNQM9zMEMzMqih1QTypdLv6udf1+oVOTf11T4c/sQ==",
+      "path": "grpc/2.44.0",
+      "hashPath": "grpc.2.44.0.nupkg.sha512"
+    },
+    "Grpc.Core/2.44.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-H2rTNePSYeEqUgBBqiE5KZ/yOX7jEtETjWjv4gGtnYxrlpZ79VAHe+4KtZAnt2KJMiGvqTm7eo1SPk+QpiPfaw==",
+      "path": "grpc.core/2.44.0",
+      "hashPath": "grpc.core.2.44.0.nupkg.sha512"
+    },
+    "Grpc.Core.Api/2.44.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FBfPMvKwT8q98T8lWa5z6nBMLdH/Mmo5g4yyYYMvbXLWDzo4beqa7CUU5QH3PKvo2X6/b+UAZ2IymXlrYG3IXg==",
+      "path": "grpc.core.api/2.44.0",
+      "hashPath": "grpc.core.api.2.44.0.nupkg.sha512"
+    },
+    "Grpc.Tools/2.43.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JRcG4VqrDE2P+QxKpTk+9BU2ZjHxTZ2oecd5auWa3ViWCCVZY/MZuGcLXj8DjSBS8sDpk6vQXrsjw8nIyoRMNw==",
+      "path": "grpc.tools/2.43.0",
+      "hashPath": "grpc.tools.2.43.0.nupkg.sha512"
+    },
+    "System.Memory/4.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3oDzvc/zzetpTKWMShs1AADwZjQ/36HnsufHRPcOjyRAAMLDlu2iD33MBI2opxnezcVUtXyqDXXjoFMOU9c7SA==",
+      "path": "system.memory/4.5.3",
+      "hashPath": "system.memory.4.5.3.nupkg.sha512"
+    }
+  }
+}
