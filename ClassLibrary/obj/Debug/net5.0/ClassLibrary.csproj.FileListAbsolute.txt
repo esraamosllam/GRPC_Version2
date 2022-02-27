@@ -9,3 +9,4 @@ D:\Grpc\AspNetCore.Docs-main\aspnetcore\grpc\test-services\sample\Server\ClassLi
 D:\Grpc\AspNetCore.Docs-main\aspnetcore\grpc\test-services\sample\Server\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
 D:\Grpc\AspNetCore.Docs-main\aspnetcore\grpc\test-services\sample\Server\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll
 D:\Grpc\AspNetCore.Docs-main\aspnetcore\grpc\test-services\sample\Server\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb
+D:\Grpc\AspNetCore.Docs-main\aspnetcore\grpc\test-services\sample\Server\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.AssemblyReference.cache
